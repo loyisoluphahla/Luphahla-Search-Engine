@@ -1,4 +1,4 @@
-app = "your-app-name-here"  # CHANGE THIS to something unique, e.g., "johns-ai-search"
+app = "lupahla-search-engine"
 
 [build]
 
