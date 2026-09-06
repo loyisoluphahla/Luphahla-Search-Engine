@@ -1,0 +1,10 @@
+{
+  "seeds": [
+    "https://news.ycombinator.com",
+    "https://www.python.org/",
+    "https://blog.mozilla.org/",
+    "https://lwn.net/"
+  ],
+  "recrawl_minutes": 30,
+  "per_seed_limit": 150
+}
